@@ -1,4 +1,13 @@
-/data*
-# ignore all ipynb checkpoint files
-*.ipynb_checkpoints
+# checkpoint files
+**/.ipynb_checkpoints/
+
+
+Dataset_Exploration/data/
+
+#cache
 __pycache__/
+*.py[cod]
+
+# IDE dosyaları
+.vscode/
+*.log
