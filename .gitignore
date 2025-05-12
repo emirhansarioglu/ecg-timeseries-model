@@ -1,0 +1,4 @@
+/data*
+# ignore all ipynb checkpoint files
+*.ipynb_checkpoints
+__pycache__/
