@@ -4,10 +4,13 @@
 
 Dataset_Exploration/data/
 
+
 #cache
 __pycache__/
 *.py[cod]
 
-# IDE dosyaları
+# IDEs
 .vscode/
 *.log
+# pkl files
+*.pkl
