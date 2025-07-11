@@ -15,8 +15,8 @@ __pycache__/
 # pkl files
 *.pkl
 
-poetry.lock
-pyproject.toml
+
+
 .venv/
 .DS_Store
 models/randomforest.ipynb
