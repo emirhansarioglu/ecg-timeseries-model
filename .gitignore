@@ -3,7 +3,7 @@
 
 
 Dataset_Exploration/data/
-
+models/runs/
 
 #cache
 __pycache__/
@@ -12,9 +12,9 @@ __pycache__/
 # IDEs
 .vscode/
 *.log
-# pkl files
-*.pkl
 
+*.pkl
+*.pt
 
 
 .venv/
