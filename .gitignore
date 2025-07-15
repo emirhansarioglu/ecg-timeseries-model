@@ -3,7 +3,7 @@
 
 
 Dataset_Exploration/data/
-
+models/runs/
 
 #cache
 __pycache__/
@@ -12,5 +12,11 @@ __pycache__/
 # IDEs
 .vscode/
 *.log
-# pkl files
+
 *.pkl
+*.pt
+
+
+.venv/
+.DS_Store
+models/randomforest.ipynb
